@@ -1,4 +1,4 @@
-# Full stack ecommerce online store application
+# Full stack ecommerce online store application ini dibuat untuk tugas
 
 
 ## General Info 
